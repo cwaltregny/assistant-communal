@@ -1,0 +1,492 @@
+{
+  "metadata": {
+    "generated_timestamp": "2025-08-14T11:44:14.974763",
+    "total_questions": 40,
+    "source_chunks": 1829,
+    "model_used": "gpt-4-turbo-preview",
+    "questions_per_chunk": 2,
+    "cross_document_questions": 15
+  },
+  "questions": [
+    {
+      "question": "Quels sont les principaux instruments d'actions publiques mentionnés dans le document pour lutter contre les changements climatiques dans le canton de Vaud?",
+      "expected_docs": [
+        "pcc_vaud_p19_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Les principaux instruments d'actions mentionnés incluent des mesures normatives, économiques et incitatives, telles que la Conception cantonale de l’énergie, le programme de subventions pour la transition énergétique, la Stratégie vélo, les barèmes d’imposition des véhicules individuels motorisés, le Plan d’action biodiversité, la loi sur la protection du patrimoine naturel et paysager, et la loi sur la protection de la population."
+    },
+    {
+      "question": "Comment la nouvelle politique climatique cantonale du canton de Vaud est-elle soutenue au niveau légal suite à l'introduction de la loi sur le climat et l’innovation (LCI)?",
+      "expected_docs": [
+        "pcc_vaud_p19_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "La nouvelle politique climatique cantonale est soutenue au niveau légal par l’introduction de la loi sur le climat et l’innovation (LCI) et les nouvelles dispositions constitutionnelles vaudoises, qui ouvrent un nouveau chapitre pour l’action climatique forte du Conseil d’État et posent les bases pour une future loi-cadre cantonale sur la durabilité et le climat."
+    },
+    {
+      "question": "Quel est l'objectif de la certification « Nature & Activités » décernée par la Fondation Nature et Economie mentionnée dans le plan climat de Fribourg?",
+      "expected_docs": [
+        "pcc_fribourg_p52_c1"
+      ],
+      "context": "dans le canton de Fribourg",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Fribourg",
+      "answer": "L'objectif de la certification « Nature & Activités » est de favoriser la nature en milieu urbain et construit. Elle exige une gestion extensive des espaces naturels, permettant de réduire les coûts d'entretien."
+    },
+    {
+      "question": "Comment le plan climat de Fribourg envisage-t-il de contribuer à la revitalisation des cours d'eau sur une période de 10 ans?",
+      "expected_docs": [
+        "pcc_fribourg_p52_c1"
+      ],
+      "context": "dans le canton de Fribourg",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Fribourg",
+      "answer": "Le plan prévoit de contribuer à la revitalisation de 20-30 km de cours d'eau en encadrant les communes dans la conduite des projets, notamment en recherche de financement et conseils techniques, en collaborant avec les milieux agricoles pour mettre en évidence les intérêts des projets de revitalisation pour l'agriculture, et en concevant des modes de financement complémentaires proposés aux communes."
+    },
+    {
+      "question": "Quel est l'objectif principal de l'intégration de la nature au cœur des quartiers selon le plan climat du canton de Genève?",
+      "expected_docs": [
+        "pcc_geneve_p38_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "L'objectif principal est de créer des villes plus résilientes en intégrant mieux la nature au cœur des quartiers, en impliquant davantage les habitants dans les choix de conception et de gestion, pour faire face aux enjeux de la transition écologique et améliorer la résilience écologique du territoire."
+    },
+    {
+      "question": "Comment les changements climatiques affectent-ils spécifiquement les zones urbaines selon le plan climat cantonal?",
+      "expected_docs": [
+        "pcc_geneve_p38_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les changements climatiques devraient multiplier, intensifier et prolonger les vagues de chaleur, ayant des effets très forts sur les zones urbaines, notamment à cause de l'augmentation des températures et de l'effet d'îlot de chaleur urbain."
+    },
+    {
+      "question": "Quel est le secteur le plus important émetteur de GES dans le canton mentionné dans le document?",
+      "expected_docs": [
+        "pcc_neuchatel_p216_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "batiment",
+      "municipality": null,
+      "canton": null,
+      "answer": "Le secteur des combustibles est de loin le plus important émetteur du canton."
+    },
+    {
+      "question": "Quelles informations spécifiques sont suggérées pour affiner l'analyse des émissions de GES dans le secteur résidentiel?",
+      "expected_docs": [
+        "pcc_neuchatel_p216_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "batiment",
+      "municipality": null,
+      "canton": null,
+      "answer": "Pour affiner l'analyse, il est suggéré de recueillir, pour le secteur résidentiel, l'année de construction ou de rénovation énergétique, la surface de référence énergétique, l'agent de chauffage utilisé et le type de bâtiment (immeuble, maison individuelle etc.)."
+    },
+    {
+      "question": "Quand le premier Plan climat vaudois a-t-il été adopté ?",
+      "expected_docs": [
+        "pcc_vaud_p21_c0"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Le premier Plan climat vaudois a été adopté en juin 2020."
+    },
+    {
+      "question": "Quel budget d'investissement a été prévu pour le financement du Plan climat vaudois de 1ère génération à partir de 2021 ?",
+      "expected_docs": [
+        "pcc_vaud_p21_c0"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Un financement de CHF 173 millions a été prévu au budget d’investissement dès 2021 pour le Plan climat vaudois de 1ère génération."
+    },
+    {
+      "question": "Quelle est l'importance des forêts dans le canton de Vaud selon le plan climat?",
+      "expected_docs": [
+        "pcc_vaud_p66_c2"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Les forêts vaudoises, couvrant un tiers du territoire, jouent un rôle crucial dans la protection contre les dangers naturels, le stockage du carbone, et la fourniture de matières premières pour des constructions respectueuses du climat."
+    },
+    {
+      "question": "Quelles actions le Plan d'action sols vaudois prévoit-il pour maintenir la qualité des sols à long terme?",
+      "expected_docs": [
+        "pcc_vaud_p66_c2"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Le Plan d'action sols vaudois fixe les objectifs et les actions nécessaires pour garantir la qualité des sols à long terme, notamment par leur protection et leur réhabilitation, qu'ils soient naturels, forestiers, agricoles ou urbains."
+    },
+    {
+      "question": "Quelle est la part des émissions de gaz à effet de serre (GES) liées au domaine de la mobilité dans le canton du Valais selon les données de 2019?",
+      "expected_docs": [
+        "pcc_valais_p20_c1"
+      ],
+      "context": "dans le canton du Valais",
+      "difficulty": "easy",
+      "category": "transport",
+      "municipality": null,
+      "canton": "Valais",
+      "answer": "Environ 23% des émissions du territoire sont liées au domaine de la mobilité selon les données de 2019."
+    },
+    {
+      "question": "Quel est l'objectif de réduction des émissions directes de GES fixé par l'Etat du Valais pour le domaine de la mobilité à l'horizon 2040?",
+      "expected_docs": [
+        "pcc_valais_p20_c1"
+      ],
+      "context": "dans le canton du Valais",
+      "difficulty": "medium",
+      "category": "transport",
+      "municipality": null,
+      "canton": "Valais",
+      "answer": "L'objectif de réduction pour le domaine de la mobilité est de -75% des émissions directes en 2040."
+    },
+    {
+      "question": "Quel est l'objectif principal du projet de territoire cantonal mentionné dans le plan climat?",
+      "expected_docs": [
+        "pcc_geneve_p72_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "L'objectif principal du projet de territoire cantonal est de rendre le canton compatible avec la neutralité carbone à l'horizon 2050."
+    },
+    {
+      "question": "Comment les plans directeurs et les projets énergétiques territoriaux des communes genevoises doivent-ils intégrer les aspects opérationnels relatifs au climat selon le plan climat?",
+      "expected_docs": [
+        "pcc_geneve_p72_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les plans directeurs et les projets énergétiques territoriaux des communes genevoises doivent intégrer des aspects opérationnels relatifs au climat en incluant des mesures spécifiques pour la réduction des émissions de CO2, l'adaptation au changement climatique et la promotion d'une habitabilité renouvelée d'un point de vue social, économique et environnemental."
+    },
+    {
+      "question": "Quelle période couvre la moyenne utilisée pour lisser les fluctuations des données sur la biomasse forestière dans le canton de Neuchâtel?",
+      "expected_docs": [
+        "pcc_neuchatel_p199_c0"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "La moyenne utilisée pour lisser les fluctuations des données sur la biomasse forestière couvre les cinq dernières années disponibles, soit de 2014 à 2018."
+    },
+    {
+      "question": "Expliquez comment a été réalisée la régionalisation des données de biomasse forestière dans le cadre de l'inventaire neuchâtelois de GES et pourquoi les paramètres régionaux supplémentaires n'ont pas été pris en compte.",
+      "expected_docs": [
+        "pcc_neuchatel_p199_c0"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "hard",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "La régionalisation des données de biomasse forestière a été effectuée à l'aide du ratio de surface forestière, disponible dans l'inventaire forestier national. La méthodologie utilisée est une approche top down à partir des données du NIR (National Inventory Report) et ne pondère pas ces résultats en fonction de paramètres régionaux supplémentaires, ce qui implique que les spécificités locales ou les variations entre différentes zones du canton de Neuchâtel n'ont pas été directement prises en compte dans les calculs."
+    },
+    {
+      "question": "Quel est l'objectif de la révision de la Directive DRUIDE prévue pour 2025-2026 dans le canton de Vaud?",
+      "expected_docs": [
+        "pcc_vaud_p96_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "easy",
+      "category": "batiment",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "L'objectif de la révision de la Directive DRUIDE pour 2025-2026 est de clarifier son application par les différents services constructeurs de l'État, en épurant la version actuelle et en précisant l'application des exigences. Cette révision doit également adapter son contenu en fonction de l'entrée en vigueur de la loi sur l'énergie révisée et de son règlement, et en coordination avec les révisions des lois sur la gestion des déchets, l'aménagement du territoire et les constructions et la protection du patrimoine naturel et paysager."
+    },
+    {
+      "question": "Quels sont les services et organismes impliqués dans le pilotage et le financement de la révision de la Directive DRUIDE dans le canton de Vaud pour 2024-2025?",
+      "expected_docs": [
+        "pcc_vaud_p96_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "medium",
+      "category": "batiment",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Les services et organismes impliqués dans le pilotage et le financement de la révision de la Directive DRUIDE pour 2024-2025 incluent DEIEP-DGIP, DJES-DGE, DSAS-CHUV, DSAS-DGCS, DEF-SG, DEF-DGES, UNIL-Unibat, et DFA-OCDC."
+    },
+    {
+      "question": "Quel est le rang du canton du Valais en termes de superficie en Suisse?",
+      "expected_docs": [
+        "pcc_valais_p19_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "transport",
+      "municipality": null,
+      "canton": "Valais",
+      "answer": "Le canton du Valais est le 3ème plus grand canton de Suisse en superficie."
+    },
+    {
+      "question": "Comment la géographie montagneuse du Valais influence-t-elle la densité de sa population et ses impacts sur la mobilité?",
+      "expected_docs": [
+        "pcc_valais_p19_c0"
+      ],
+      "context": "dans le canton de Valais",
+      "difficulty": "medium",
+      "category": "transport",
+      "municipality": null,
+      "canton": "Valais",
+      "answer": "Avec sa géographie montagneuse, le Valais est l'un des cantons les moins denses de Suisse, ce qui implique d'importantes distances pour relier les différentes parties du territoire et par conséquent, influence directement les défis et les besoins en termes de mobilité."
+    },
+    {
+      "question": "Quelle est la date d'acceptation du postulat 19.117 par l'Autorité dans le canton de Neuchâtel?",
+      "expected_docs": [
+        "pcc_neuchatel_p68_c0"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "Le postulat 19.117 a été accepté le 19 février 2019 par l'Autorité dans le canton de Neuchâtel."
+    },
+    {
+      "question": "Quel est l'objectif principal du postulat 19.117 dans le canton de Neuchâtel?",
+      "expected_docs": [
+        "pcc_neuchatel_p68_c0"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "medium",
+      "category": "energie",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "L'objectif principal du postulat 19.117 est d'étudier l'opportunité de créer une plateforme Internet pour offrir aux citoyens des projets régionaux pour compenser leurs émissions de CO2 de manière volontaire."
+    },
+    {
+      "question": "Quel est l'objectif principal des actions de sensibilisation mentionnées dans le plan climat cantonal de Genève?",
+      "expected_docs": [
+        "pcc_geneve_p70_c3"
+      ],
+      "context": "dans le canton de Genève",
+      "difficulty": "easy",
+      "category": "batiment",
+      "municipality": null,
+      "canton": "Genève",
+      "answer": "L'objectif principal des actions de sensibilisation est de promouvoir pour différents publics cibles, y compris scolaires, l'intensification de la rénovation énergétique et l'efficacité énergétique."
+    },
+    {
+      "question": "Comment le plan climat cantonal de Genève envisage-t-il d'optimiser l'utilisation des ressources énergétiques du territoire?",
+      "expected_docs": [
+        "pcc_geneve_p70_c3"
+      ],
+      "context": "dans le canton de Genève",
+      "difficulty": "medium",
+      "category": "energie",
+      "municipality": null,
+      "canton": "Genève",
+      "answer": "Le plan envisage d'optimiser l'utilisation des ressources énergétiques du territoire notamment au travers des grands projets qui permettront d'organiser la transition vers une société principalement alimentée en énergies renouvelables locales, incluant la valorisation des ressources renouvelables et de récupération, systèmes de stockage et infrastructures énergétiques de partage."
+    },
+    {
+      "question": "Quelle mesure le plan climat de Neuchâtel prévoit-il pour favoriser l'usage des véhicules électriques ?",
+      "expected_docs": [
+        "pcc_neuchatel_p82_c2"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "easy",
+      "category": "transport",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "Le plan climat prévoit le soutien à l'installation de bornes de recharge pour les véhicules électriques."
+    },
+    {
+      "question": "Quelles sont les actions de communication prévues par le plan climat de Neuchâtel pour informer sur les émissions de CO2 et la taxe auto ?",
+      "expected_docs": [
+        "pcc_neuchatel_p82_c2"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "medium",
+      "category": "transport",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "Le plan climat prévoit une campagne d'information sur les nouvelles prescriptions fédérales concernant les émissions de CO2 des voitures de tourisme et une campagne de communication sur le système bonus-malus de la taxe auto neuchâteloise, ainsi que sur les projets phares réalisés par les différents acteurs cantonaux."
+    },
+    {
+      "question": "Combien de tonnes de CO2eq sont générées annuellement par habitant dans le canton de Vaud?",
+      "expected_docs": [
+        "pcc_vaud_p13_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "easy",
+      "category": "energie",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Les habitants du canton de Vaud génèrent annuellement plus de 15 tonnes de CO2eq par habitant."
+    },
+    {
+      "question": "Quel pourcentage des émissions totales de GES du canton de Vaud en 2019 provient de la consommation?",
+      "expected_docs": [
+        "pcc_vaud_p13_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "medium",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "40% des émissions totales de GES du canton de Vaud en 2019 proviennent de la consommation."
+    },
+    {
+      "question": "Quel est le rôle de la politique climatique selon le document pcc_geneve.pdf?",
+      "expected_docs": [
+        "pcc_geneve_p59_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Le rôle de la politique climatique est de soutenir et mettre en relation les différentes démarches, ainsi que d'accompagner les futures mises à jour des plans d'actions et stratégies, pour assurer leur compatibilité avec les objectifs climatiques."
+    },
+    {
+      "question": "Comment le PCC 2030 prévoit-il de contribuer à la réduction des émissions de GES dans le domaine de l'aménagement du territoire?",
+      "expected_docs": [
+        "pcc_geneve_p59_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Le PCC 2030 prévoit de réduire les émissions de GES dans le domaine de l'aménagement du territoire en s'assurant que les futurs développements urbains soient compatibles avec la neutralité carbone à l'horizon 2050, en s'inscrivant dans la vision d'une agglomération compacte, multipolaire et verte, et visant un rééquilibrage de la répartition de l'habitat et des emplois."
+    },
+    {
+      "question": "Quel pourcentage du total des réductions de tCO2e est attendu grâce à la promotion d'une alimentation bas carbone, saine et équilibrée?",
+      "expected_docs": [
+        "pcc_geneve_p54_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "11.3 % des réductions totales sont attendues grâce à la promotion et au soutien d'une alimentation bas carbone, saine et équilibrée."
+    },
+    {
+      "question": "Comment les initiatives de sobriété numérique sont-elles intégrées dans le Plan Energie Climat Communal et quel est leur impact estimé en termes de réduction de tCO2e?",
+      "expected_docs": [
+        "pcc_geneve_p54_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les initiatives de sobriété numérique sont intégrées à travers le programme Smart Geneva, l’école au service de la citoyenneté numérique et le Plan d’études romand « Éducation numérique », avec un impact estimé de réduction de 120’000 à 150’000 tCO2e, représentant 3.9 à 4.8 % du total des réductions."
+    },
+    {
+      "question": "Qu'est-ce que l'ACV dans le contexte du Plan climat vaudois?",
+      "expected_docs": [
+        "pcc_vaud_p71_c0"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "easy",
+      "category": "general",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Dans le contexte du Plan climat vaudois, l'ACV se réfère à l'Administration cantonale vaudoise."
+    },
+    {
+      "question": "Comment la Direction générale de l'environnement (DGE) contribue-t-elle au Plan climat vaudois?",
+      "expected_docs": [
+        "pcc_vaud_p71_c0"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "hard",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "La contribution spécifique de la Direction générale de l'environnement (DGE) au Plan climat vaudois n'est pas détaillée dans l'extrait fourni. Pour connaître cette information, il faudrait consulter la section du document dédiée aux responsabilités et actions de la DGE dans la mise en œuvre du plan."
+    },
+    {
+      "question": "Quel article propose la mise en place d'un Plan climat cantonal dans le canton de Neuchâtel?",
+      "expected_docs": [
+        "pcc_neuchatel_p225_c0"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "L'article proposant la mise en place d'un Plan climat cantonal dans le canton de Neuchâtel est la Motion 18.218."
+    },
+    {
+      "question": "Quelles sont les conséquences financières et sur le personnel prévues par le Plan Energie Climat Communal de Neuchâtel?",
+      "expected_docs": [
+        "pcc_neuchatel_p225_c0"
+      ],
+      "context": "dans le canton de Neuchâtel",
+      "difficulty": "medium",
+      "category": "energie",
+      "municipality": null,
+      "canton": "Neuchâtel",
+      "answer": "Les conséquences financières et sur le personnel prévues par le Plan Energie Climat Communal de Neuchâtel sont détaillées dans la section 10 du document."
+    },
+    {
+      "question": "Quel est l'objectif de la contribution à un observatoire dans le cadre du plan climat du canton de Vaud?",
+      "expected_docs": [
+        "pcc_vaud_p117_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "L'objectif est de fédérer les producteurs de données autour des enjeux climatiques, facilitant ainsi le partage et l'analyse des informations pertinentes pour la gestion et la compréhension des impacts climatiques."
+    },
+    {
+      "question": "Comment le Plan Energie Climat Communaux du canton de Vaud envisage-t-il de renforcer la communication sur les conséquences du changement climatique?",
+      "expected_docs": [
+        "pcc_vaud_p117_c1"
+      ],
+      "context": "dans le canton de Vaud",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": "Vaud",
+      "answer": "Le plan envisage de renforcer la communication sur les conséquences du changement climatique en lien avec les études menées, afin de mieux informer le public sur les impacts et les mesures nécessaires pour y faire face."
+    }
+  ]
+}

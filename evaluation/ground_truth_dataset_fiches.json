@@ -1,0 +1,504 @@
+{
+  "metadata": {
+    "generated_timestamp": "2025-08-14T11:38:24.348829",
+    "total_questions": 41,
+    "source_chunks": 1829,
+    "model_used": "gpt-4-turbo-preview",
+    "questions_per_chunk": 2,
+    "cross_document_questions": 15
+  },
+  "questions": [
+    {
+      "question": "Quelles sont les deux principales sources d'énergie utilisées pour le chauffage en Suisse en 2022 selon la fiche énergie?",
+      "expected_docs": [
+        "Fiche_Energie_p5_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "energie",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les deux principales sources d'énergie pour le chauffage en Suisse en 2022 étaient le mazout et le gaz, représentant environ 60% de la consommation d'énergie pour le chauffage."
+    },
+    {
+      "question": "Comment la consommation d'énergie pour la mobilité intérieure se répartit-elle entre diesel et essence en Suisse en 2022, et quelles implications cela pourrait-il avoir sur les stratégies d'amélioration de la qualité de l'air dans les communes?",
+      "expected_docs": [
+        "Fiche_Energie_p5_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "hard",
+      "category": "transport",
+      "municipality": null,
+      "canton": null,
+      "answer": "En Suisse en 2022, la consommation d'énergie pour la mobilité intérieure était dominée par le diesel (53%) et l'essence (37%). Cette répartition implique que pour améliorer la qualité de l'air, les communes doivent se concentrer sur la réduction de la consommation de ces carburants, par exemple, en promouvant les véhicules électriques ou en améliorant l'offre de transport public."
+    },
+    {
+      "question": "Quel est le pourcentage de l'impact environnemental attribuable à la consommation de viande et de poisson selon les chiffres meschoixenvironnement.ch?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p8_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "26% de notre impact environnemental est attribuable à la consommation de viande et de poisson."
+    },
+    {
+      "question": "Expliquez en quoi consiste la loi de Raymond Lindeman et comment elle se rapporte à notre consommation de viande et de poisson par rapport aux fruits et légumes.",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p8_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "hard",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "La loi de Raymond Lindeman, appelée aussi Loi des 10%, datant de 1942, est une loi de transfert de l'énergie dans les écosystèmes qui stipule que chaque transformation d'énergie entraîne une perte de 90% de celle-ci. Cela explique pourquoi notre consommation de viande et de poisson a un impact très élevé comparé à notre consommation de fruits et légumes, car les animaux (consommateurs secondaires) perdent une grande partie de l'énergie qu'ils reçoivent des végétaux (producteurs) à travers les niveaux trophiques."
+    },
+    {
+      "question": "Quelles sont les deux principales catégories de zones mentionnées dans le document et quelles sont leurs spécificités ?",
+      "expected_docs": [
+        "Fiche_Amenagement_territoire_p7_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les deux principales catégories de zones mentionnées sont les zones à bâtir et les zones agricoles. Les zones à bâtir peuvent être subdivisées en sous-catégories telles que zones d’habitations et zones industrielles, avec des spécifications sur l'utilisation du sol, la densité bâtie, et l'intégration des constructions. Les zones agricoles sont destinées à l'exploitation agricole, mais aussi à sauvegarder le paysage, les espaces de délassement et assurer l'équilibre écologique."
+    },
+    {
+      "question": "Comment les autorisations de construire sont-elles octroyées dans le contexte cantonal et communal et quelles règlementations doivent être respectées ?",
+      "expected_docs": [
+        "Fiche_Amenagement_territoire_p7_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les autorisations de construire sont octroyées par la commune, qui vérifie que les projets de construction soient conformes aux règlements communaux ainsi qu'aux lois cantonales et fédérales. Un permis doit être délivré pour chaque nouvelle construction, reconstruction, transformation, extension, et même en cas de changement d'affectation qui ne nécessite pas de travaux."
+    },
+    {
+      "question": "Quelle a été l'évolution de la surface finale de bois utilisée dans les constructions neuves en Suisse entre 2009 et 2018?",
+      "expected_docs": [
+        "Fiche_Construction_bois_p6_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "batiment",
+      "municipality": null,
+      "canton": null,
+      "answer": "La surface finale de bois utilisée dans les constructions neuves en Suisse a augmenté de 55,2 milliers de m² en 2009 à 107,7 milliers de m² en 2018."
+    },
+    {
+      "question": "Quelles sont les implications environnementales de l'utilisation accrue de produits composites à base de bois dans la construction et l'ameublement?",
+      "expected_docs": [
+        "Fiche_Construction_bois_p6_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "batiment",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les produits composites à base de bois, tels que ceux composés principalement de particules/fibres de bois et de colles à base de formaldéhyde, ont un impact environnemental plus important en raison de la transformation élevée et/ou de la charge adhésive élevée. Cela signifie que la construction en bois doit privilégier le bois massif lorsque c'est possible pour réduire l'impact environnemental."
+    },
+    {
+      "question": "Quel service gratuit est proposé aux propriétaires de bâtiments souhaitant remplacer une installation de production de chaleur de plus de 10 ans?",
+      "expected_docs": [
+        "Fiche_Renovation_energetique_batiments_p6_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "energie",
+      "municipality": null,
+      "canton": null,
+      "answer": "Le conseil incitatif « chauffez renouvelable » est un service gratuit et sans engagement proposé aux propriétaires de bâtiments désirant remplacer une installation de production de chaleur de plus de 10 ans."
+    },
+    {
+      "question": "En quoi consiste le programme ProKilowatt pour les entreprises et les particuliers?",
+      "expected_docs": [
+        "Fiche_Renovation_energetique_batiments_p6_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "energie",
+      "municipality": null,
+      "canton": null,
+      "answer": "Le programme ProKilowatt est un programme de soutien dans l’efficacité électrique qui incite les particuliers et les entreprises à remplacer leurs installations existantes par des technologies plus efficientes et à investir dans ces nouvelles technologies."
+    },
+    {
+      "question": "Quelle est la résistance thermique minimale recommandée pour les combles perdus selon les mesures prioritaires du gouvernement?",
+      "expected_docs": [
+        "Fiche_Renovation_energetique_batiments_p12_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "batiment",
+      "municipality": null,
+      "canton": null,
+      "answer": "La résistance thermique minimale recommandée pour les combles perdus est de R=7."
+    },
+    {
+      "question": "Pourquoi est-il conseillé de se rapprocher d'un spécialiste tel qu'un architecte ou un bureau d'études pour le choix du système d'isolation?",
+      "expected_docs": [
+        "Fiche_Renovation_energetique_batiments_p12_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "batiment",
+      "municipality": null,
+      "canton": null,
+      "answer": "Il est conseillé de se rapprocher d'un spécialiste afin de faire connaître les souhaits du particulier. Cette visite technique permettra au spécialiste d'émettre des recommandations sur le système d'isolation envisageable et le type d'isolant à poser."
+    },
+    {
+      "question": "Quel est l'objectif fédéral suisse en matière de réduction des émissions de gaz à effet de serre (GES) d'ici à 2030 ?",
+      "expected_docs": [
+        "STC-note-decideurs_p3_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "energie",
+      "municipality": null,
+      "canton": null,
+      "answer": "L'objectif fédéral suisse est de réduire les émissions de GES de 50% d'ici à 2030."
+    },
+    {
+      "question": "Comment une stratégie climatique communale peut-elle efficacement répondre aux enjeux climatiques selon le document ?",
+      "expected_docs": [
+        "STC-note-decideurs_p3_c0"
+      ],
+      "context": "dans le canton de X",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": "nom de la commune",
+      "canton": null,
+      "answer": "Une stratégie climatique communale efficace doit combiner l’atténuation des émissions de GES avec l’adaptation au changement climatique."
+    },
+    {
+      "question": "Quelles mesures ont été introduites en 2009 pour encourager le développement des énergies renouvelables en Suisse?",
+      "expected_docs": [
+        "Fiche_Energie_p7_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "energie",
+      "municipality": null,
+      "canton": null,
+      "answer": "En 2009, un système de rétribution de l’injection d’électricité et des contributions d’investissement (subventions) ont été mis en place pour encourager le développement des énergies renouvelables."
+    },
+    {
+      "question": "Comment la Stratégie Énergétique 2050 influence-t-elle les procédures pour le développement du réseau de lignes électriques?",
+      "expected_docs": [
+        "Fiche_Energie_p7_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "energie",
+      "municipality": null,
+      "canton": null,
+      "answer": "La Stratégie Énergétique 2050 accélère les procédures pour la transformation et la rénovation des réseaux électriques, qui étaient auparavant ralenties par de longues procédures juridiques."
+    },
+    {
+      "question": "Quels sont les trois axes principaux sur lesquels l'effort des communes doit porter pour développer un plan stratégique de mobilité?",
+      "expected_docs": [
+        "Fiche_Modes_transport_alternatifs_p10_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "transport",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les trois axes principaux sont: développer les infrastructures en faveur des transports publics et de la mobilité active, aménager le territoire de manière à minimiser la demande de transport et à faciliter les modes de transport peu émissifs au détriment de la voiture, en particulier en milieu urbain, et accompagner les entreprises afin d’initier et encourager les changements comportementaux des collaborateur·trice·s."
+    },
+    {
+      "question": "Comment les communes sont-elles encouragées à aborder la stratégie de mobilité en termes de planification temporelle, et quelles sont les échéances spécifiques pour les volets à court et à long terme?",
+      "expected_docs": [
+        "Fiche_Modes_transport_alternatifs_p10_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "transport",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les communes sont encouragées à développer un plan stratégique de mobilité articulé en deux volets: l'un à court terme avec un horizon maximal de 2030 pour faire décroître la demande de transport et diminuer les émissions de la mobilité par des mesures à effets rapides et coûts raisonnables, et l'autre à long terme avec un horizon de 2050 pour atteindre la neutralité carbone par une transformation fondamentale de l'aménagement de l'espace communal, en complément des mesures à court terme."
+    },
+    {
+      "question": "Quel est l'objectif du Conseil fédéral concernant les pertes alimentaires évitables d'ici 2030?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p16_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "L'objectif du Conseil fédéral est de réduire de moitié les pertes alimentaires évitables en Suisse d'ici 2030 par rapport au niveau de 2017."
+    },
+    {
+      "question": "Quels sont les trois objectifs poursuivis par le Programme du Conseil Fédéral pour réduire les pertes alimentaires, et comment le plan est-il structuré temporellement?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p16_c1"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les trois objectifs du Programme du Conseil Fédéral sont : 1) d'ici à 2030, réduire de moitié les pertes alimentaires en Suisse par rapport au niveau de 2017 ; 2) fixer des objectifs de réduction sectoriels avec les branches ; 3) diminuer autant que possible l'impact environnemental des pertes alimentaires évitables. Le plan se déroule en deux phases, de 2022 à 2025 et de 2026 à 2030."
+    },
+    {
+      "question": "Quelle est la mesure prioritaire mentionnée pour les communes montagnardes afin de préserver l'environnement?",
+      "expected_docs": [
+        "STC-note-decideurs_p9_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "La mesure prioritaire mentionnée est la mesure 5 : préserver les forêts et utiliser le bois dans la construction."
+    },
+    {
+      "question": "Comment les communes montagnardes peuvent-elles accéder à des informations supplémentaires sur la mesure 5 concernant la préservation des forêts et l'utilisation du bois dans la construction?",
+      "expected_docs": [
+        "STC-note-decideurs_p9_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les communes montagnardes peuvent accéder à des informations supplémentaires en téléchargeant la fiche « Aménagement du territoire » et en consultant les projets-modèles pour un développement territorial durable."
+    },
+    {
+      "question": "Quel pourcentage des pertes alimentaires évitables représente l'impact environnemental dû à l'alimentation en Suisse?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p16_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les pertes alimentaires évitables représentent 25% de l'impact environnemental dû à l'alimentation en Suisse."
+    },
+    {
+      "question": "Quelle mesure une commune du canton de Genève a-t-elle imposée concernant l'alimentation dans ses écoles et sur ses marchés?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p16_c0"
+      ],
+      "context": "dans le canton de Genève",
+      "difficulty": "medium",
+      "category": "alimentation",
+      "municipality": "Général",
+      "canton": "Genève",
+      "answer": "Une commune dans le canton de Genève n'autorise que les aliments locaux dans ses écoles et sur ses marchés."
+    },
+    {
+      "question": "Comment les cantines et écoles de la commune sont-elles encouragées à promouvoir une alimentation durable selon le document?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p16_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "hard",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les cantines et écoles de la commune sont encouragées à promouvoir une alimentation durable en changeant la nomenclature des repas servis par « repas normal » et « repas avec viande », et en promouvant les produits locaux et de saison ainsi que les régimes moins carnés."
+    },
+    {
+      "question": "Qui a rédigé la fiche 'Construction bois' destinée à aider à la décarbonation des communes suisses?",
+      "expected_docs": [
+        "Fiche_Construction_bois_p2_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "batiment",
+      "municipality": null,
+      "canton": null,
+      "answer": "La fiche 'Construction bois' a été rédigée par Arthur Thirion, membre de l’association The Shifters Switzerland."
+    },
+    {
+      "question": "Quel est l'objectif principal des fiches rédigées par le groupe de travail Shift Ta Commune?",
+      "expected_docs": [
+        "Fiche_Construction_bois_p2_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "L'objectif principal des fiches est de sensibiliser les élu·es et les administrations communales aux mesures prioritaires pour décarboner et rendre résilientes les communes suisses face au changement climatique, en leur fournissant des arguments pour faire pression auprès des décideurs politiques afin de mettre en œuvre des projets solidaires, désirables, sobres et résilients."
+    },
+    {
+      "question": "Quelle solution est proposée pour valoriser les déchets verts selon le document?",
+      "expected_docs": [
+        "STC-note-decideurs_p8_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "energie",
+      "municipality": null,
+      "canton": null,
+      "answer": "La solution proposée pour valoriser les déchets verts est de les transformer en énergie renouvelable, permettant de réduire la quantité de déchets tout en créant une ressource énergétique locale et écologique."
+    },
+    {
+      "question": "Comment réduire les pertes alimentaires des ménages peut influencer l'empreinte environnementale selon le document?",
+      "expected_docs": [
+        "STC-note-decideurs_p8_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "Réduire les pertes alimentaires évitables des ménages pourrait diminuer l'empreinte environnementale de 10 à 15%. Des campagnes de sensibilisation et des outils pour mieux planifier les achats et gérer les restes sont mentionnés comme des moyens clés pour y parvenir."
+    },
+    {
+      "question": "Quel est le mode de transport urbain avec l'émission la plus faible de GES par passager et par kilomètre ?",
+      "expected_docs": [
+        "Fiche_Modes_transport_alternatifs_p5_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "transport",
+      "municipality": null,
+      "canton": null,
+      "answer": "La marche est le mode de transport urbain avec l'émission la plus faible de GES, avec 0 gramme EqCO₂/passager.km."
+    },
+    {
+      "question": "Comment la part des prestations kilométriques effectuées pour la mobilité se répartit-elle entre la voiture et les autres modes de transport, et quelle implication cela a-t-il pour les politiques communales de transport ?",
+      "expected_docs": [
+        "Fiche_Modes_transport_alternatifs_p5_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "hard",
+      "category": "transport",
+      "municipality": null,
+      "canton": null,
+      "answer": "La voiture représente 71% de la totalité des prestations kilométriques effectuées pour la mobilité, laissant les autres modes de transport se partager les 29% restants. Cela implique que les politiques communales de transport devraient se concentrer sur la réduction de la dépendance à la voiture en promouvant les modes de transport alternatifs moins polluants pour faire face au défi climatique."
+    },
+    {
+      "question": "Quel est le volume moyen de forêt par hectare en Suisse?",
+      "expected_docs": [
+        "Fiche_Construction_bois_p4_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Le volume moyen de forêt par hectare en Suisse est de 350 m³, ce qui est l'un des plus élevés d'Europe."
+    },
+    {
+      "question": "Comment la gestion forestière durable contribue-t-elle à la résilience des forêts suisses face au changement climatique?",
+      "expected_docs": [
+        "Fiche_Construction_bois_p4_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "La gestion forestière durable valorise les arbres et les forêts en intégrant la récolte du bois dans le cycle de vie de la forêt, offrant ainsi aux arbres les conditions les plus favorables pour leur développement. Cela comprend le travail des gestionnaires forestiers et le fait que 80% des peuplements forestiers suisses sont issus de régénération naturelle, contribuant à une récolte annuelle de bois inférieure à la croissance annuelle des forêts."
+    },
+    {
+      "question": "Combien de tonnes de CO2 un hectare de forêt en Suisse peut-il capter par an ?",
+      "expected_docs": [
+        "Fiche_Amenagement_territoire_p11_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "En moyenne, un hectare de forêt en Suisse capte environ 2 tonnes de CO2 par an."
+    },
+    {
+      "question": "Pourquoi l'intégration des mesures de résilience dans l'aménagement du territoire au sein du plan directeur communal est-elle considérée comme une démarche pertinente ?",
+      "expected_docs": [
+        "Fiche_Amenagement_territoire_p11_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Elle est considérée comme pertinente car l'aménagement du territoire dans une perspective de résilience est un processus qui nécessite du temps pour être pleinement concrétisé, et son intégration au sein du plan directeur communal assure une approche structurée et de long terme."
+    },
+    {
+      "question": "Qu'est-ce que la multimodalité train selon la fiche sur les modes de transport alternatifs?",
+      "expected_docs": [
+        "Fiche_Modes_transport_alternatifs_p13_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "transport",
+      "municipality": null,
+      "canton": null,
+      "answer": "La multimodalité train fait référence à la promotion d'une offre alternative à la voiture individuelle, incluant des navettes plaine-stations, des transports à la demande et de l'autopartage, particulièrement auprès des touristes longue distance."
+    },
+    {
+      "question": "Comment les communes peuvent-elles contribuer à réduire la dépendance à la voiture individuelle dans le cadre de la mobilité touristique?",
+      "expected_docs": [
+        "Fiche_Modes_transport_alternatifs_p13_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "transport",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les communes peuvent contribuer en promouvant une multimodalité train, en mettant fin à l’économie axée sur la croissance du tourisme qui favorise l’accès en voiture aux stations, et en ne plus augmenter les capacités d’accès en voitures aux stations."
+    },
+    {
+      "question": "Quel est l'objectif de la Suisse en matière de réduction des émissions de CO2 d'ici 2030?",
+      "expected_docs": [
+        "Fiche_Amenagement_territoire_p8_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "La Suisse vise à réduire les émissions de CO2 de plus de 50 % d'ici 2030."
+    },
+    {
+      "question": "Comment la Confédération suisse intègre-t-elle les objectifs liés au changement climatique dans le domaine de l'aménagement du territoire?",
+      "expected_docs": [
+        "Fiche_Amenagement_territoire_p8_c2"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "amenagement",
+      "municipality": null,
+      "canton": null,
+      "answer": "Dans le domaine de l’aménagement du territoire, l’ODD 11, qui porte sur l’urbanisation, englobe des objectifs liés au changement climatique. Plus précisément, la Confédération promeut le développement des transports publics, s’engage à renforcer une urbanisation durable, à réduire les impacts des catastrophes naturelles et à encourager l’expansion des espaces verts."
+    },
+    {
+      "question": "Quel pourcentage du budget des ménages est consacré à l'alimentation selon la fiche sur l'alimentation durable?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p5_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "easy",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les ménages consacrent 12% de leur budget à l'alimentation, ce qui équivaut à environ 1 200 francs par mois."
+    },
+    {
+      "question": "Quelle catégorie de produits agricoles présente la plus grande différence entre importations et exportations en Suisse selon les données de 2020?",
+      "expected_docs": [
+        "Fiche_Alimentation_durable_p5_c0"
+      ],
+      "context": "en Suisse",
+      "difficulty": "medium",
+      "category": "alimentation",
+      "municipality": null,
+      "canton": null,
+      "answer": "Les fruits, légumes et leurs préparations présentent la plus grande différence entre importations et exportations, avec des importations nettement supérieures aux exportations."
+    }
+  ]
+}

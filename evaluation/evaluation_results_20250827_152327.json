@@ -1,0 +1,54 @@
+[
+  {
+    "hit_rate": 0.4497142857142857,
+    "mrr": 0.6166666666666667,
+    "ndcg": 0.5159156318229577,
+    "precision_at_k": 0.22,
+    "recall_at_k": 0.4497142857142857,
+    "avg_retrieval_time": 0.15034354,
+    "config": {
+      "k": 3,
+      "search_method": "advanced"
+    },
+    "timestamp": "2025-08-27T15:23:27.890174"
+  },
+  {
+    "hit_rate": 0.47621428571428565,
+    "mrr": 0.5933333333333333,
+    "ndcg": 0.4977550476309229,
+    "precision_at_k": 0.19399999999999998,
+    "recall_at_k": 0.47621428571428565,
+    "avg_retrieval_time": 0.18037442000000004,
+    "config": {
+      "k": 5,
+      "search_method": "advanced"
+    },
+    "timestamp": "2025-08-27T15:23:27.890177"
+  },
+  {
+    "hit_rate": 0.5042142857142856,
+    "mrr": 0.5766666666666665,
+    "ndcg": 0.5037967917744284,
+    "precision_at_k": 0.18885714285714286,
+    "recall_at_k": 0.5042142857142856,
+    "avg_retrieval_time": 0.21322952,
+    "config": {
+      "k": 7,
+      "search_method": "advanced"
+    },
+    "timestamp": "2025-08-27T15:23:27.890178"
+  },
+  {
+    "hit_rate": 0.5402142857142856,
+    "mrr": 0.599,
+    "ndcg": 0.529667517977478,
+    "precision_at_k": 0.1848571428571429,
+    "recall_at_k": 0.5402142857142856,
+    "avg_retrieval_time": 0.24919912,
+    "config": {
+      "k": 10,
+      "search_method": "advanced"
+    },
+    "timestamp": "2025-08-27T15:23:27.890179"
+  }
+]
